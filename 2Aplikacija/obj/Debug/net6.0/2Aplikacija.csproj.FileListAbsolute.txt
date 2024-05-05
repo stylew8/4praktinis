@@ -1,0 +1,15 @@
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\bin\Debug\net6.0\2Aplikacija.exe
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\bin\Debug\net6.0\2Aplikacija.deps.json
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\bin\Debug\net6.0\2Aplikacija.runtimeconfig.json
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\bin\Debug\net6.0\2Aplikacija.dll
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\bin\Debug\net6.0\2Aplikacija.pdb
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\obj\Debug\net6.0\2Aplikacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\obj\Debug\net6.0\2Aplikacija.AssemblyInfoInputs.cache
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\obj\Debug\net6.0\2Aplikacija.AssemblyInfo.cs
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\obj\Debug\net6.0\2Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\obj\Debug\net6.0\2Aplikacija.sourcelink.json
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\obj\Debug\net6.0\2Aplikacija.dll
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\obj\Debug\net6.0\refint\2Aplikacija.dll
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\obj\Debug\net6.0\2Aplikacija.pdb
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\obj\Debug\net6.0\2Aplikacija.genruntimeconfig.cache
+C:\Users\vania\Desktop\4praktinis\2Aplikacija\obj\Debug\net6.0\ref\2Aplikacija.dll
